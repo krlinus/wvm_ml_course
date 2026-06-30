@@ -20,3 +20,4 @@ I did some ssh key setup stuff that enables me to check work with github from my
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?tool=cli
 
 
+I set up vscode to work with conda using the Smart Conda plugin so that vscode can recognize the environment created by conda
