@@ -10,5 +10,7 @@ dependencies:
   - matplotlib=3.10
   - scikit-learn=1.7
   - jupyterlab>=4.4
-  - ipykernel
+  - ipykernel=7.3.0
+  - seaborn=0.13.2
+  - pytorch=2.6.0
 prefix: /opt/miniconda3/envs/machine-learning-book

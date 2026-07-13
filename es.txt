@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - ipykernel
+  - jupyterlab[version='>=4.4']
+  - matplotlib=3.10.9
+name: machine-learning-book
+  - numpy=2.2.6
+  - pandas=2.3.3
+prefix: /home/pc016/miniforge3/envs/machine-learning-book
+  - python=3.12.13
+  - pytorch
+  - scikit-learn=1.7.2
+  - scipy=1.15.2

@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - jupyterlab>=4.4
+  - matplotlib=3.10
+name: machine-learning-book
+  - numpy=2.2
+  - pandas=2.3
+prefix: /opt/miniconda3/envs/machine-learning-book
+  - python=3.12
+  - scikit-learn=1.7
+  - scipy=1.15
+  - seaborn-0.13.2
